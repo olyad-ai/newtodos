@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/toido/static/css/main.4c6a2eb7.chunk.css",
+    "main.js": "/toido/static/js/main.16b063d7.chunk.js",
+    "main.js.map": "/toido/static/js/main.16b063d7.chunk.js.map",
+    "runtime-main.js": "/toido/static/js/runtime-main.1ec6f958.js",
+    "runtime-main.js.map": "/toido/static/js/runtime-main.1ec6f958.js.map",
+    "static/js/2.c7e7b747.chunk.js": "/toido/static/js/2.c7e7b747.chunk.js",
+    "static/js/2.c7e7b747.chunk.js.map": "/toido/static/js/2.c7e7b747.chunk.js.map",
+    "static/js/3.e25dd9ae.chunk.js": "/toido/static/js/3.e25dd9ae.chunk.js",
+    "static/js/3.e25dd9ae.chunk.js.map": "/toido/static/js/3.e25dd9ae.chunk.js.map",
+    "index.html": "/toido/index.html",
+    "static/css/main.4c6a2eb7.chunk.css.map": "/toido/static/css/main.4c6a2eb7.chunk.css.map",
+    "static/js/2.c7e7b747.chunk.js.LICENSE.txt": "/toido/static/js/2.c7e7b747.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1ec6f958.js",
+    "static/js/2.c7e7b747.chunk.js",
+    "static/css/main.4c6a2eb7.chunk.css",
+    "static/js/main.16b063d7.chunk.js"
+  ]
+}
